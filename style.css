@@ -1,3 +1,4 @@
+@import url("styles/header.css");
 cabeçalho_menu-hamburguer {
     width: 24px;
     height: 24px;
@@ -13,4 +14,8 @@ cabeçalho_menu-hamburguer {
 
 .cabeçalho {
     background-color: var(--branco);
+}
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
 }
